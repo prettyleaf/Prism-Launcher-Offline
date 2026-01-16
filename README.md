@@ -1,6 +1,9 @@
 # Before Installation
 If you have some accounts saved then executing this script will remove them!
 
+# Version 9.4<
+Prism Launcher added a check of Online Accounts. The fix is to download the older version of [Prism Launcher 9.4](https://github.com/PrismLauncher/PrismLauncher/releases/tag/9.4)
+
 # How to use
 - Install Prism Launcher
 - Go through the quick setup
